@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+  "name": "xThunkable Phone Mockeup",
+  "description": "Using this extension you can change the default phone mockup of xThunkable to an Android or iOS mockeup. By Ct tricks",
+  "version": "1.0.0",
+  "icons": { 
+	  "128": "icon_128.png"
+  },
+  "browser_action": {
+	  "default_icon": "icon.png"
+  },
+  "content_scripts" : [
+	  {
+		  "matches": ["https://x.thunkable.com/*"],
+		  "js" : ["script.js"],
+		  "css" : ["styles.css"]
+	  }
+  ]
+}
