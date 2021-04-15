@@ -8,4 +8,11 @@ In the above screenshot you can see there is the iOS phone mockup [ iPhone 8 Plu
 [How to install and use this extension?](https://cttricks.com/2021/04/14/use-custom-phone-mockup-in-xthunkable-builder/)
 I have explained step-by-step process of Download>Install>Use this extension on my webiste [Cttricks.com](https://cttricks.com/2021/04/14/use-custom-phone-mockup-in-xthunkable-builder/) Also note that this you’ll have to manually download it and add to your chrome extensions as i haven’t published this on chrome store yet.
 
+## Useful Links
+- [xThunkable Builder](https://x.thunkable.com/)
+- [Thunkable Community](https://community.thunkable.com/t/use-custom-phone-mock-in-xthunkabel-builder-chrome-extension/1224046/3)
+- [Demo Video- YT](https://youtu.be/eZ4wugpK63E)
+- [How to install and use this extension?](https://cttricks.com/2021/04/14/use-custom-phone-mockup-in-xthunkable-builder/)
+
+Feel free to reach out to me, if you have any query or suggestion related to this extension.
 Enjoy!!
